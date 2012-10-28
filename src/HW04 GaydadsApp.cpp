@@ -46,6 +46,7 @@ void HW04_GaydadsApp::setup()
 	Entry* arr = readFile();
 
 	HW04_GaydadsApp::console() << arr[1].identifier<< "things" <<std::endl;
+	HW04_GaydadsApp::console() << "change" <<std::endl;
 }
 
 void HW04_GaydadsApp::mouseDown( MouseEvent event )
