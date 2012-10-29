@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\src\HW04 GaydadsApp.cpp">
+    <ClCompile Include="..\src\HW04_GaydadsApp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="gaydadsStarbucks.cpp">
+    <ClCompile Include="..\src\gaydadsStarbucks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -29,10 +29,10 @@
     <ClInclude Include="..\include\Starbucks.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="gaydadsStarbucks.h">
+    <ClInclude Include="..\include\gaydadsStarbucks.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="HW04 GaydadsApp.h">
+    <ClInclude Include="..\include\HW04_GaydadsApp.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

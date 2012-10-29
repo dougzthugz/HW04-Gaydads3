@@ -105,14 +105,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\src\HW04 GaydadsApp.cpp" />
-    <ClCompile Include="gaydadsStarbucks.cpp" />
+    <ClCompile Include="..\src\gaydadsStarbucks.cpp" />
+    <ClCompile Include="..\src\HW04_GaydadsApp.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\include\gaydadsStarbucks.h" />
+    <ClInclude Include="..\include\HW04_GaydadsApp.h" />
     <ClInclude Include="..\include\Resources.h" />
     <ClInclude Include="..\include\Starbucks.h" />
-    <ClInclude Include="gaydadsStarbucks.h" />
-    <ClInclude Include="HW04 GaydadsApp.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Resources.rc" />
